@@ -1,5 +1,4 @@
 const Employee = require("../lib/Employee");
-const { exitCode } = require("process");
 
 test('New Employee created', () => {
     const emp = new Employee();
