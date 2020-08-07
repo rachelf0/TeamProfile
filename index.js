@@ -128,7 +128,7 @@ async function prompt() {
                 "No"
             ]
         }, ]);
-    } while (responseDone.finish === "Yes");
+    } while (responseDone.finish === "No");
 }
 
 // Run app
