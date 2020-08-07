@@ -76,7 +76,7 @@ async function prompt() {
                     }
                 },
                 {
-                    type: "input",
+                    type: "list",
                     name: "role",
                     message: "What is the employee's role:",
                     choices: [

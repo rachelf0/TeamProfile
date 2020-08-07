@@ -42,3 +42,20 @@ THEN I exit the application and the HTML is generated
 'npm init'
 'npm install inquirer'
 'npm install jest --save-dev'
+'npm install email-validator'
+
+## Usage
+Run the following command at the root of your project and answer the prompted questions:
+'node Index'
+
+## Testing
+'npm run test'
+Testing is done with jest and contains testing for all four classes: Employee, Manager, Engineer, and Intern.
+
+## Contributing
+Rachel Fritz
+
+## Questions
+ - Find me on GitHub: [rachelf0] (https://github.com/rachelf0) 
+  - If you have any questions, please email me at: rachelfritz0@gmail.com
+  - This README was generated with ❤️ by [generate-rm] (https://github.com/rachelf0/TeampProfile)
