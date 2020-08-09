@@ -3,6 +3,9 @@
 ## Description
 A node.js application that uses user input from inquirer to populate an index.html file displaying members of a development team. The index.html file is create in the dist/ directory.
 
+## Demo
+- [![video demo of application]] (./src/TeampProfile.mp4) (https://drive.google.com/file/d/1xJ7OIBT0wHS01zsqev3TJAOQHlhsIZ4h/preview)
+
 ## User Story
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
@@ -29,6 +32,7 @@ THEN I exit the application and the HTML is generated
 
 ## Table of Contents
   - [Description](#description)
+  - [Demo](#demo)
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Table of Contents](#table-of-contents)
